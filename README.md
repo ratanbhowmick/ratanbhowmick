@@ -1,6 +1,6 @@
 
 <h1 align='center'>
-  Hi there 👋 I'm Ratan/ratanbhowmick 👨‍💻
+  Hi there 👋 I'm Ratan 👨‍💻
 </h1>
 
 <p align='center'>
