@@ -1,52 +1,39 @@
 
-<h1 align='center'>
-  Hi there 👋 I'm Ratan 👨‍💻
-</h1>
+[![MasterHead](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif)]
 
-<p align='center'>
-  A explorer in the field of Web, Android & Programming.
+<h1 align="center">Hi 👋, I'm Ratan Bhowmick</h1>
+<h3 align="center">A passionate Web developer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ratanbhowmick&label=Profile%20views&color=0e75b6&style=flat" alt="ratanbhowmick" /> </p>
+
+<p align="left"> <a href="https://twitter.com/ratanbh06298022" target="blank"><img src="https://img.shields.io/twitter/follow/ratanbh06298022?logo=twitter&style=for-the-badge" alt="ratanbh06298022" /></a> </p>
+
+- 🔭 I’m currently working on [🎓Collegecatalyst](https://collegecatalyst.great-site.net/?i=2)
+
+- 🌱 I’m currently learning **Django, Linux**
+
+- 👨‍💻 All of my projects are available at [https://github.com/ratanbhowmick](https://github.com/ratanbhowmick)
+
+- 📫 How to reach me **ratanbhowmick369@gmail.com**
+
+- 📄 My Website link [https://ratanbhowmick.github.io/portfolio-/](https://ratanbhowmick.github.io/portfolio-/)
+
+- ⚡ Fun fact **I am funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ratanbh06298022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ratanbh06298022" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ratan-bhowmick/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ratan-bhowmick/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/ratan.bhowmick.712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ratan.bhowmick.712" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/its_____ratan369/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/its_____ratan369/?hl=en" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ratanbhowmick&show_icons=true&locale=en&layout=compact" alt="ratanbhowmick" /></p>
 
-<p align='center'>
-  
-  <a href="https://www.linkedin.com/in/ratan-bhowmick/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/its_____ratan369/?hl=en">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ratanbhowmick&show_icons=true&locale=en" alt="ratanbhowmick" /></p>
 
-<!-- <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexandresanlim&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p> -->
-
-<!-- <p align='center'>
-  💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-</p>
-
-<p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
-</p>
- -->
-<!-- <details align='center'>
-  <summary>:zap: My workspace specs</summary>
-</details>-->
-
-<p align='center'>
-  📫 How to reach me: <a href='mailto:ratanbhowmick369@gmail.com'>ratanbhowmick369@gmail.com</a>
-</p>
-<p align='center'>
-  📫 How to reach me: <a href='mailto:ratan00b852@gmail.com'>ratan00b852@gmail.com</a>
-</p>
-<p align ='center'>
-🌐💻 Visit My website here 🌐💻👉: <a href="https://ratanbhowmick.github.io/portfolio-/"> My Portfolio </a>
-</p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ratanbhowmick&" alt="ratanbhowmick" /></p>
