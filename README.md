@@ -34,8 +34,8 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ratanbhowmick&&theme=xcode)](https://ratanbhowmick.github.io/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ratanbhowmick&show_icons=true&locale=en&layout=compact" alt="ratanbhowmick" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ratanbhowmick&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ratanbhowmick" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ratanbhowmick&show_icons=true&locale=en" alt="ratanbhowmick" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ratanbhowmick&show_icons=true&locale=en&theme=tokyonight" alt="ratanbhowmick" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ratanbhowmick&" alt="ratanbhowmick" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ratanbhowmick&theme=tokyonight" alt="ratanbhowmick" /></p>
